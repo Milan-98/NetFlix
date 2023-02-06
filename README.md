@@ -7,8 +7,7 @@
 
  ## ScreenShots
  
-   
-    ![netflix 1](https://user-images.githubusercontent.com/114464208/216958822-3c64ae59-cfb5-4213-ae25-31bb44a266d1.png)
+![netflix 1](https://user-images.githubusercontent.com/114464208/216958822-3c64ae59-cfb5-4213-ae25-31bb44a266d1.png)
 
 ![netflix](https://user-images.githubusercontent.com/114464208/216958799-25d34b3e-b0aa-4edb-92b0-8d019259c103.png)
 
